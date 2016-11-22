@@ -18,7 +18,7 @@ ini = {
     'log':              '/home/felix/Dokumente/py/abfall/abfall.log',
     'empfaenger':       ['felix@werthschulte.info', 'lena@werthschulte.info'],
     'absender':         'f.werthschulte@gmx.de',
-    'passwort':         'WDR19swr08hr?',
+    'passwort':         'DDR19swr08hr?',
     'serveradresse':    'mail.gmx.net',
     'namen':            ["Gustave Millebotte", "Antonnia Forditura", 
                         "Lasse di Tonni-Abole", "James Mylbott", "Supermindt", 
